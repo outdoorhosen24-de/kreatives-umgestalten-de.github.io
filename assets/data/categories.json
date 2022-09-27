@@ -1,107 +1,100 @@
 [
     {
-        "key": "insektenschutz",
-        "name": "Insektenschutz",
-        "slug": "insektenschutz",
-        "productCategory": "Insektenschutz",
+        "key": "künstlerzubehör",
+        "name": "Künstlerzubehör",
+        "slug": "kunstlerzubehor",
+        "productCategory": "Künstlerzubehör",
         "subCategories": []
     },
     {
-        "key": "fliegengittertüren",
-        "name": "Fliegengittertüren",
-        "slug": "fliegengitterturen",
-        "productCategory": "Fliegengittertüren",
+        "key": "blöcke",
+        "name": "Blöcke",
+        "slug": "blocke",
+        "productCategory": "Blöcke",
         "subCategories": []
     },
     {
-        "key": "plissees",
-        "name": "Plissees",
-        "slug": "plissees",
-        "productCategory": "Plissees",
+        "key": "bastelfarben",
+        "name": "Bastelfarben",
+        "slug": "bastelfarben",
+        "productCategory": "Bastelfarben",
         "subCategories": []
     },
     {
-        "key": "insektenschutzrahmen",
-        "name": "Insektenschutzrahmen",
-        "slug": "insektenschutzrahmen",
-        "productCategory": "Insektenschutzrahmen",
+        "key": "schmuckbasteln",
+        "name": "Schmuckbasteln",
+        "slug": "schmuckbasteln",
+        "productCategory": "Schmuckbasteln",
         "subCategories": []
     },
     {
-        "key": "stil- & seilspanngarnituren",
-        "name": "Stil- & Seilspanngarnituren",
-        "slug": "stil-seilspanngarnituren",
-        "productCategory": "Stil- & Seilspanngarnituren",
+        "key": "schul- & kinderbasteln",
+        "name": "Schul- & Kinderbasteln",
+        "slug": "schul-kinderbasteln",
+        "productCategory": "Schul- & Kinderbasteln",
         "subCategories": []
     },
     {
-        "key": "lamellenvorhänge",
-        "name": "Lamellenvorhänge",
-        "slug": "lamellenvorhange",
-        "productCategory": "Lamellenvorhänge",
+        "key": "stifte",
+        "name": "Stifte",
+        "slug": "stifte",
+        "productCategory": "Stifte",
         "subCategories": []
     },
     {
-        "key": "rollos & raffrollos",
-        "name": "Rollos & Raffrollos",
-        "slug": "rollos-raffrollos",
-        "productCategory": "Rollos & Raffrollos",
+        "key": "modellieren",
+        "name": "Modellieren",
+        "slug": "modellieren",
+        "productCategory": "Modellieren",
         "subCategories": []
     },
     {
-        "key": "jalousien",
-        "name": "Jalousien",
-        "slug": "jalousien",
-        "productCategory": "Jalousien",
+        "key": "kleben & schneiden",
+        "name": "Kleben & Schneiden",
+        "slug": "kleben-schneiden",
+        "productCategory": "Kleben & Schneiden",
         "subCategories": []
     },
     {
-        "key": "gardinenschienen",
-        "name": "Gardinenschienen",
-        "slug": "gardinenschienen",
-        "productCategory": "Gardinenschienen",
+        "key": "keilrahmen",
+        "name": "Keilrahmen",
+        "slug": "keilrahmen",
+        "productCategory": "Keilrahmen",
         "subCategories": []
     },
     {
-        "key": "fenstervorhänge",
-        "name": "Fenstervorhänge",
-        "slug": "fenstervorhange",
-        "productCategory": "Fenstervorhänge",
+        "key": "mosaik",
+        "name": "Mosaik",
+        "slug": "mosaik",
+        "productCategory": "Mosaik",
         "subCategories": []
     },
     {
-        "key": "vitragestangen",
-        "name": "Vitragestangen",
-        "slug": "vitragestangen",
-        "productCategory": "Vitragestangen",
+        "key": "kreative bücher",
+        "name": "Kreative Bücher",
+        "slug": "kreative-bucher",
+        "productCategory": "Kreative Bücher",
         "subCategories": []
     },
     {
-        "key": "insektenschutzzubehör",
-        "name": "Insektenschutzzubehör",
-        "slug": "insektenschutzzubehor",
-        "productCategory": "Insektenschutzzubehör",
+        "key": "fimo",
+        "name": "Fimo",
+        "slug": "fimo",
+        "productCategory": "Fimo",
         "subCategories": []
     },
     {
-        "key": "türdichtungen & fensterdichtungen",
-        "name": "Türdichtungen & Fensterdichtungen",
-        "slug": "turdichtungen-fensterdichtungen",
-        "productCategory": "Türdichtungen & Fensterdichtungen",
+        "key": "staffeleien",
+        "name": "Staffeleien",
+        "slug": "staffeleien",
+        "productCategory": "Staffeleien",
         "subCategories": []
     },
     {
-        "key": "fliegengitterfenster",
-        "name": "Fliegengitterfenster",
-        "slug": "fliegengitterfenster",
-        "productCategory": "Fliegengitterfenster",
-        "subCategories": []
-    },
-    {
-        "key": "insektenschutznetze",
-        "name": "Insektenschutznetze",
-        "slug": "insektenschutznetze",
-        "productCategory": "Insektenschutznetze",
+        "key": "malzubehör",
+        "name": "Malzubehör",
+        "slug": "malzubehor",
+        "productCategory": "Malzubehör",
         "subCategories": []
     }
 ]

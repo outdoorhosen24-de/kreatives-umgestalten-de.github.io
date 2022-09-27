@@ -1,17 +1,17 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
+        "key": "simply",
+        "name": "Simply",
+        "slug": "simply",
+        "productCategory": "Simply",
+        "localThumb": "/assets/images/hersteller/simply.webp"
     },
     {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
+        "key": "edding",
+        "name": "EDDING",
+        "slug": "edding",
+        "productCategory": "EDDING",
+        "localThumb": "/assets/images/hersteller/edding.webp"
     },
     {
         "key": "sonstige",
@@ -21,66 +21,45 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "kreul",
+        "name": "KREUL",
+        "slug": "kreul",
+        "productCategory": "KREUL",
+        "localThumb": "/assets/images/hersteller/kreul.webp"
     },
     {
-        "key": "obi",
-        "name": "OBI",
-        "slug": "obi",
-        "productCategory": "OBI",
-        "localThumb": "/assets/images/hersteller/obi.webp"
+        "key": "lukas",
+        "name": "Lukas",
+        "slug": "lukas",
+        "productCategory": "Lukas",
+        "localThumb": "/assets/images/hersteller/lukas.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "create! by obi",
+        "name": "CREATE! by OBI",
+        "slug": "create-by-obi",
+        "productCategory": "CREATE! by OBI",
+        "localThumb": "/assets/images/hersteller/create-by-obi.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "glorex",
+        "name": "Glorex",
+        "slug": "glorex",
+        "productCategory": "Glorex",
+        "localThumb": "/assets/images/hersteller/glorex.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
+        "key": "staedtler",
+        "name": "Staedtler",
+        "slug": "staedtler",
+        "productCategory": "Staedtler",
+        "localThumb": "/assets/images/hersteller/staedtler.webp"
     },
     {
-        "key": "cmi",
-        "name": "CMI",
-        "slug": "cmi",
-        "productCategory": "CMI",
-        "localThumb": "/assets/images/hersteller/cmi.webp"
-    },
-    {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
-    },
-    {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
-    },
-    {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "daler rowney",
+        "name": "Daler Rowney",
+        "slug": "daler-rowney",
+        "productCategory": "Daler Rowney",
+        "localThumb": "/assets/images/hersteller/daler-rowney.webp"
     }
 ]
