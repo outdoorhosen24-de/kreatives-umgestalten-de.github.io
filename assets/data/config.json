@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "kreatives-umgestalten.de",
+    "hostname": "https://www.kreatives-umgestalten.de/",
+    "email": "kreatives-umgestalten.desurrealnetworks.io",
+    "organization": "kreatives-umgestalten.de",
+    "logoText": "Kreatives-umgestalten.de",
+    "title": "Kreatives Gestalten",
+    "subline": "Der Online Shop f\u00fcr Kreatives Gestalten",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "7038714",
+        "2787877",
+        "7038912",
+        "8572794",
+        "2822500",
+        "1066943"
+    ],
+    "winnerProducts": [
+        "7038813",
+        "6733026",
+        "2739233"
+    ],
+    "featuredCategories": [
+        "Kleben & Schneiden",
+        "Malzubeh\u00f6r",
+        "Kreative B\u00fccher",
+        "Staffeleien",
+        "Stifte",
+        "Bl\u00f6cke"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Kreatives Gestalten",
-        "featureText": "Your featured text goes here",
+        "featureText": "Kreatives Gestalten ist ein Shop, der alles bietet, was man f\u00fcr die kreative Gestaltung von R\u00e4umen und Gegenst\u00e4nden ben\u00f6tigt. Hier findet man eine gro\u00dfe Auswahl an Tapeten, Farben, M\u00f6beln und Accessoires.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Kreatives Gestalten - Einzigartige Geschenke und Dekorationen",
+            "metaDescription": "Kreatives Gestalten ist ein Shop, der alles bietet, was Sie f\u00fcr Ihr kreatives Projekt ben\u00f6tigen. Vom Bastelbedarf bis zur Schreibwaren finden Sie alles, was Sie brauchen.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Kreatives Gestalten: Wie Sie Ihre Ideen verwirklichen",
+                    "text": "Kreatives Gestalten ist eine tolle M\u00f6glichkeit, um sich selbst auszudr\u00fccken und die eigene Kreativit\u00e4t auszuleben. Es gibt kein richtig oder falsch beim kreativen Gestalten \u2013 alles ist erlaubt! Ob du nun ein Kunstwerk erschaffst, ein Geburtstagsgeschenk bastelst oder einfach nur ein paar neue Deko-Ideen f\u00fcr dein Zuhause suchst \u2013 kreatives Gestalten ist eine tolle M\u00f6glichkeit, um deine Ideen umzusetzen und etwas Sch\u00f6nes zu erschaffen.\n\nWenn du noch nie kreativ gestaltet hast, dann kann es eine gute Idee sein, erst einmal ein paar einfache Ideen auszuprobieren. Zum Beispiel kannst du ein paar Blumen aus Papier basteln oder ein paar coole Buttons selbst gestalten. Auch einfache Deko-Ideen wie ein selbstgemachter Bilderrahmen oder eine selbstgestaltete Tasse sind tolle M\u00f6glichkeiten, um kreativ zu werden.\n\nWenn du dich erst einmal an das kreative Gestalten gew\u00f6hnt hast, kannst du dich an immer komplexere Projekte wagen. Vielleicht hast du ja Lust, ein kleines Kunstwerk zu erschaffen oder ein Geburtstagsgeschenk f\u00fcr einen Freund zu basteln. Auch tolle Deko-Ideen f\u00fcr dein Zuhause sind kein Problem, wenn du erst einmal ein paar grundlegende Gestaltungstechniken beherrschst.\n\nAlso, worauf wartest du noch? Kreatives Gestalten ist e"
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Kreatives Gestalten Shop",
+            "metaDescription": "Kreatives Gestalten - Der Shop f\u00fcr kreative Menschen! Hier findest du alles, was du f\u00fcr deine kreativen Projekte brauchst.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Kreatives Gestalten - der Hersteller",
+            "metaDescription": "Kreatives Gestalten ist ein Hersteller von hochwertigen Bastelprodukten.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Kreatives Gestalten mit $PRODUKT",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Wahl f\u00fcr kreatives Gestalten. $KATEGORIE bietet alles, was Sie f\u00fcr Ihr n\u00e4chstes Projekt ben\u00f6tigen.",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Kreatives Gestalten: $KATEGORIE",
+        "defaultMetaDescription": "Kreatives Gestalten: $KATEGORIE \u2013 kreative Ideen f\u00fcr Ihr Zuhause. Gestalten Sie Ihr Zuhause ganz einfach selbst!",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER ist Ihr kreativer Partner f\u00fcr Gestaltung, Kommunikation und Werbung. Wir setzen Ihre Ideen um und sorgen f\u00fcr den richtigen Auftritt.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Kreatives Gestalten",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Kreatives Gestalten Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Kreatives Gestalten Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
