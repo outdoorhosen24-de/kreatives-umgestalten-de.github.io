@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/create-by-obi", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/metallring-weisz-o-20-cm-create-by-obi-3540481-1.jpg":"\u002Fassets\u002Fimages\u002Fmetallring-weisz-o-20-cm-create-by-obi-3540481-1.webp"}}],fetch:{},mutations:void 0});
