@@ -1,12 +1,12 @@
 {
-    "configIsReady": true,
+    "configIsReady": false,
     "domain": "kreatives-umgestalten.de",
     "hostname": "https://www.kreatives-umgestalten.de/",
     "email": "kreatives-umgestalten.desurrealnetworks.io",
     "organization": "kreatives-umgestalten.de",
     "logoText": "Kreatives-umgestalten.de",
     "title": "Kreatives Gestalten",
-    "subline": "Der Online Shop f\u00fcr Kreatives Gestalten",
+    "subline": "Der Online Shop für Kreatives Gestalten",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -29,11 +29,11 @@
     ],
     "featuredCategories": [
         "Kleben & Schneiden",
-        "Malzubeh\u00f6r",
-        "Kreative B\u00fccher",
+        "Malzubehör",
+        "Kreative Bücher",
         "Staffeleien",
         "Stifte",
-        "Bl\u00f6cke"
+        "Blöcke"
     ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
@@ -46,21 +46,21 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Kreatives Gestalten",
-        "featureText": "Kreatives Gestalten ist ein Shop, der alles bietet, was man f\u00fcr die kreative Gestaltung von R\u00e4umen und Gegenst\u00e4nden ben\u00f6tigt. Hier findet man eine gro\u00dfe Auswahl an Tapeten, Farben, M\u00f6beln und Accessoires.",
+        "featureText": "Kreatives Gestalten ist ein Shop, der alles bietet, was man für die kreative Gestaltung von Räumen und Gegenständen benötigt. Hier findet man eine große Auswahl an Tapeten, Farben, Möbeln und Accessoires.",
         "index": {
             "title": "Kreatives Gestalten - Einzigartige Geschenke und Dekorationen",
-            "metaDescription": "Kreatives Gestalten ist ein Shop, der alles bietet, was Sie f\u00fcr Ihr kreatives Projekt ben\u00f6tigen. Vom Bastelbedarf bis zur Schreibwaren finden Sie alles, was Sie brauchen.",
+            "metaDescription": "Kreatives Gestalten ist ein Shop, der alles bietet, was Sie für Ihr kreatives Projekt benötigen. Vom Bastelbedarf bis zur Schreibwaren finden Sie alles, was Sie brauchen.",
             "robots": "index, follow",
             "texts": [
                 {
                     "title": "Kreatives Gestalten: Wie Sie Ihre Ideen verwirklichen",
-                    "text": "Kreatives Gestalten ist eine tolle M\u00f6glichkeit, um sich selbst auszudr\u00fccken und die eigene Kreativit\u00e4t auszuleben. Es gibt kein richtig oder falsch beim kreativen Gestalten \u2013 alles ist erlaubt! Ob du nun ein Kunstwerk erschaffst, ein Geburtstagsgeschenk bastelst oder einfach nur ein paar neue Deko-Ideen f\u00fcr dein Zuhause suchst \u2013 kreatives Gestalten ist eine tolle M\u00f6glichkeit, um deine Ideen umzusetzen und etwas Sch\u00f6nes zu erschaffen.\n\nWenn du noch nie kreativ gestaltet hast, dann kann es eine gute Idee sein, erst einmal ein paar einfache Ideen auszuprobieren. Zum Beispiel kannst du ein paar Blumen aus Papier basteln oder ein paar coole Buttons selbst gestalten. Auch einfache Deko-Ideen wie ein selbstgemachter Bilderrahmen oder eine selbstgestaltete Tasse sind tolle M\u00f6glichkeiten, um kreativ zu werden.\n\nWenn du dich erst einmal an das kreative Gestalten gew\u00f6hnt hast, kannst du dich an immer komplexere Projekte wagen. Vielleicht hast du ja Lust, ein kleines Kunstwerk zu erschaffen oder ein Geburtstagsgeschenk f\u00fcr einen Freund zu basteln. Auch tolle Deko-Ideen f\u00fcr dein Zuhause sind kein Problem, wenn du erst einmal ein paar grundlegende Gestaltungstechniken beherrschst.\n\nAlso, worauf wartest du noch? Kreatives Gestalten ist e"
+                    "text": "Kreatives Gestalten ist eine tolle Möglichkeit, um sich selbst auszudrücken und die eigene Kreativität auszuleben. Es gibt kein richtig oder falsch beim kreativen Gestalten – alles ist erlaubt! Ob du nun ein Kunstwerk erschaffst, ein Geburtstagsgeschenk bastelst oder einfach nur ein paar neue Deko-Ideen für dein Zuhause suchst – kreatives Gestalten ist eine tolle Möglichkeit, um deine Ideen umzusetzen und etwas Schönes zu erschaffen.\n\nWenn du noch nie kreativ gestaltet hast, dann kann es eine gute Idee sein, erst einmal ein paar einfache Ideen auszuprobieren. Zum Beispiel kannst du ein paar Blumen aus Papier basteln oder ein paar coole Buttons selbst gestalten. Auch einfache Deko-Ideen wie ein selbstgemachter Bilderrahmen oder eine selbstgestaltete Tasse sind tolle Möglichkeiten, um kreativ zu werden.\n\nWenn du dich erst einmal an das kreative Gestalten gewöhnt hast, kannst du dich an immer komplexere Projekte wagen. Vielleicht hast du ja Lust, ein kleines Kunstwerk zu erschaffen oder ein Geburtstagsgeschenk für einen Freund zu basteln. Auch tolle Deko-Ideen für dein Zuhause sind kein Problem, wenn du erst einmal ein paar grundlegende Gestaltungstechniken beherrschst.\n\nAlso, worauf wartest du noch? Kreatives Gestalten ist e"
                 }
             ]
         },
         "shop": {
             "title": "Kreatives Gestalten Shop",
-            "metaDescription": "Kreatives Gestalten - Der Shop f\u00fcr kreative Menschen! Hier findest du alles, was du f\u00fcr deine kreativen Projekte brauchst.",
+            "metaDescription": "Kreatives Gestalten - Der Shop für kreative Menschen! Hier findest du alles, was du für deine kreativen Projekte brauchst.",
             "robots": "index, follow"
         },
         "hersteller": {
@@ -71,15 +71,15 @@
     },
     "productSeo": {
         "defaultTitle": "Kreatives Gestalten mit $PRODUKT",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Wahl f\u00fcr kreatives Gestalten. $KATEGORIE bietet alles, was Sie f\u00fcr Ihr n\u00e4chstes Projekt ben\u00f6tigen.",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Wahl für kreatives Gestalten. $KATEGORIE bietet alles, was Sie für Ihr nächstes Projekt benötigen.",
         "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
                 "name": "Ortovox PALA PANTS Kletterhose",
                 "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
                     "robots": "index, follow"
                 }
             }
@@ -87,7 +87,7 @@
     },
     "categorySeo": {
         "defaultTitle": "Kreatives Gestalten: $KATEGORIE",
-        "defaultMetaDescription": "Kreatives Gestalten: $KATEGORIE \u2013 kreative Ideen f\u00fcr Ihr Zuhause. Gestalten Sie Ihr Zuhause ganz einfach selbst!",
+        "defaultMetaDescription": "Kreatives Gestalten: $KATEGORIE – kreative Ideen für Ihr Zuhause. Gestalten Sie Ihr Zuhause ganz einfach selbst!",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -95,8 +95,8 @@
                 "slug": "sporthosen",
                 "name": "Sporthosen",
                 "seo": {
-                    "title": "Sporthosen g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
                     "robots": "index, follow",
                     "texts": [
                         {
@@ -114,15 +114,15 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist Ihr kreativer Partner f\u00fcr Gestaltung, Kommunikation und Werbung. Wir setzen Ihre Ideen um und sorgen f\u00fcr den richtigen Auftritt.",
+        "defaultMetaDescription": "$HERSTELLER ist Ihr kreativer Partner für Gestaltung, Kommunikation und Werbung. Wir setzen Ihre Ideen um und sorgen für den richtigen Auftritt.",
         "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
                 "name": "Palm",
                 "seo": {
-                    "title": "Produkte von Palm g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
                     "robots": "index, follow"
                 }
             }
