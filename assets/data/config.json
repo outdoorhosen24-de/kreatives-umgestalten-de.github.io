@@ -51,12 +51,15 @@
             "title": "Kreatives Gestalten - Einzigartige Geschenke und Dekorationen",
             "metaDescription": "Kreatives Gestalten ist ein Shop, der alles bietet, was Sie für Ihr kreatives Projekt benötigen. Vom Bastelbedarf bis zur Schreibwaren finden Sie alles, was Sie brauchen.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Kreatives Gestalten: Wie Sie Ihre Ideen verwirklichen",
-                    "text": "Kreatives Gestalten ist eine tolle Möglichkeit, um sich selbst auszudrücken und die eigene Kreativität auszuleben. Es gibt kein richtig oder falsch beim kreativen Gestalten – alles ist erlaubt! Ob du nun ein Kunstwerk erschaffst, ein Geburtstagsgeschenk bastelst oder einfach nur ein paar neue Deko-Ideen für dein Zuhause suchst – kreatives Gestalten ist eine tolle Möglichkeit, um deine Ideen umzusetzen und etwas Schönes zu erschaffen.\n\nWenn du noch nie kreativ gestaltet hast, dann kann es eine gute Idee sein, erst einmal ein paar einfache Ideen auszuprobieren. Zum Beispiel kannst du ein paar Blumen aus Papier basteln oder ein paar coole Buttons selbst gestalten. Auch einfache Deko-Ideen wie ein selbstgemachter Bilderrahmen oder eine selbstgestaltete Tasse sind tolle Möglichkeiten, um kreativ zu werden.\n\nWenn du dich erst einmal an das kreative Gestalten gewöhnt hast, kannst du dich an immer komplexere Projekte wagen. Vielleicht hast du ja Lust, ein kleines Kunstwerk zu erschaffen oder ein Geburtstagsgeschenk für einen Freund zu basteln. Auch tolle Deko-Ideen für dein Zuhause sind kein Problem, wenn du erst einmal ein paar grundlegende Gestaltungstechniken beherrschst.\n\nAlso, worauf wartest du noch? Kreatives Gestalten ist e"
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Kreatives Gestalten: Wie Sie Ihre Ideen verwirklichen",
+                        "text": "Kreatives Gestalten ist eine tolle Möglichkeit, um sich selbst auszudrücken und die eigene Kreativität auszuleben. Es gibt kein richtig oder falsch beim kreativen Gestalten – alles ist erlaubt! Ob du nun ein Kunstwerk erschaffst, ein Geburtstagsgeschenk bastelst oder einfach nur ein paar neue Deko-Ideen für dein Zuhause suchst – kreatives Gestalten ist eine tolle Möglichkeit, um deine Ideen umzusetzen und etwas Schönes zu erschaffen.\n\nWenn du noch nie kreativ gestaltet hast, dann kann es eine gute Idee sein, erst einmal ein paar einfache Ideen auszuprobieren. Zum Beispiel kannst du ein paar Blumen aus Papier basteln oder ein paar coole Buttons selbst gestalten. Auch einfache Deko-Ideen wie ein selbstgemachter Bilderrahmen oder eine selbstgestaltete Tasse sind tolle Möglichkeiten, um kreativ zu werden.\n\nWenn du dich erst einmal an das kreative Gestalten gewöhnt hast, kannst du dich an immer komplexere Projekte wagen. Vielleicht hast du ja Lust, ein kleines Kunstwerk zu erschaffen oder ein Geburtstagsgeschenk für einen Freund zu basteln. Auch tolle Deko-Ideen für dein Zuhause sind kein Problem, wenn du erst einmal ein paar grundlegende Gestaltungstechniken beherrschst.\n\nAlso, worauf wartest du noch? Kreatives Gestalten ist e"
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Kreatives Gestalten Shop",
