@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "kreatives-umgestalten.de",
     "hostname": "https://www.kreatives-umgestalten.de/",
     "email": "kreatives-umgestalten.de@surrealnetworks.io",
     "organization": "kreatives-umgestalten.de",
     "logoText": "Kreatives-umgestalten.de",
     "title": "Kreatives Gestalten",
-    "subline": "Der Online Shop für Kreatives Gestalten",
+    "subline": "Der Online Shop für alle Kreativen!",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Kreatives Gestalten",
-        "featureText": "Kreatives Gestalten ist ein Shop, der alles bietet, was man für die kreative Gestaltung von Räumen und Gegenständen benötigt. Hier findet man eine große Auswahl an Tapeten, Farben, Möbeln und Accessoires.",
+        "featureText": "Schön, dass du unseren Online Shop gefunden hast! Egal welches kreative Projekt du gerade planst und umsetzen möchtest: bei uns wirst du die passenden Produkte finden! Schau einfach vorbei und überzeuge dich selbst von unserem riesigen Sortiment: Bastelfarben, Stifte, Malblöcke, Staffeleien, Fimo Modelliermasse, Mosaik und noch vieles mehr. Wir wünschen Dir viel Spaß beim Entdecken und Erschaffen!",
         "index": {
-            "title": "Kreatives Gestalten - Einzigartige Geschenke und Dekorationen",
-            "metaDescription": "Kreatives Gestalten ist ein Shop, der alles bietet, was Sie für Ihr kreatives Projekt benötigen. Vom Bastelbedarf bis zur Schreibwaren finden Sie alles, was Sie brauchen.",
+            "title": "Kreatives Gestalten - Einzigartige Werke erschaffen!",
+            "metaDescription": "Kreatives-umgestalten ist ein Shop, der alles bietet, was Du für Dein kreatives Projekt benötigst. Warte nicht länger und entdecke unsere tollen Produkte!",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Kreatives Gestalten Shop",
-            "metaDescription": "Kreatives Gestalten - Der Shop für kreative Menschen! Hier findest du alles, was du für deine kreativen Projekte brauchst.",
+            "title": "Kreatives-umgestalten.de | Der Shop für alle Kreativen",
+            "metaDescription": "Entdecke eine Vielzahl toller Produkte für dein nächstes Projekt: Farben, Modelliermasse, Stifte, Blöcke, Mosaik und mehr! Günstig | Hochwertig | Vielfältig",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Kreatives Gestalten - der Hersteller",
-            "metaDescription": "Kreatives Gestalten ist ein Hersteller von hochwertigen Bastelprodukten.",
+            "title": "Kreatives Gestalten | tolle Marken entdecken und bestellen ",
+            "metaDescription": "Willkommen in unserem Online Shop! Bei uns findest du eine große Auswahl an tollen Marken: EDDING • KREUL • Simply • CREATE! By OBI • Glorex uvm.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Kreatives Gestalten mit $PRODUKT",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Wahl für kreatives Gestalten. $KATEGORIE bietet alles, was Sie für Ihr nächstes Projekt benötigen.",
+        "defaultTitle": "$PRODUKT | Günstig online bestellen",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER  bei uns kaufen und kreativ werden! Produkte der Kategorie $KATEGORIE bieten alles, was Du für dein Projekt brauchst.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -90,7 +90,7 @@
     },
     "categorySeo": {
         "defaultTitle": "Kreatives Gestalten: $KATEGORIE",
-        "defaultMetaDescription": "Kreatives Gestalten: $KATEGORIE – kreative Ideen für Ihr Zuhause. Gestalten Sie Ihr Zuhause ganz einfach selbst!",
+        "defaultMetaDescription": "$KATEGORIE | Du hast die Ideen - wir die passenden Produkte! Einfach unseren Shop besuchen und in der Kategorie $KATEGORIE stöbern und inspirieren lassen.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist Ihr kreativer Partner für Gestaltung, Kommunikation und Werbung. Wir setzen Ihre Ideen um und sorgen für den richtigen Auftritt.",
+        "defaultTitle": "$HERSTELLER: Produkte zum neu gestalten und kreativ werden",
+        "defaultMetaDescription": "$HERSTELLER ist die richtige Marke für dein nächstes Kreativprojekt! Hochwertige Qualität | Top Preis-Leistungsverhältnis | Schnelle Lieferung",
         "defaultRobots": "index, follow",
         "brands": [
             {
