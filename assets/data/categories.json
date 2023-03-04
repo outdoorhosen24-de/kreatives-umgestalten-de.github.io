@@ -2,14 +2,14 @@
     {
         "key": "künstlerzubehör",
         "name": "Künstlerzubehör",
-        "slug": "kunstlerzubehor",
+        "slug": "kuenstlerzubehoer",
         "productCategory": "Künstlerzubehör",
         "subCategories": []
     },
     {
         "key": "blöcke",
         "name": "Blöcke",
-        "slug": "blocke",
+        "slug": "bloecke",
         "productCategory": "Blöcke",
         "subCategories": []
     },
@@ -72,7 +72,7 @@
     {
         "key": "kreative bücher",
         "name": "Kreative Bücher",
-        "slug": "kreative-bucher",
+        "slug": "kreative-buecher",
         "productCategory": "Kreative Bücher",
         "subCategories": []
     },
@@ -93,7 +93,7 @@
     {
         "key": "malzubehör",
         "name": "Malzubehör",
-        "slug": "malzubehor",
+        "slug": "malzubehoer",
         "productCategory": "Malzubehör",
         "subCategories": []
     }
