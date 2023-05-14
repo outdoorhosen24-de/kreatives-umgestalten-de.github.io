@@ -1,256 +1,263 @@
 {
-  "configIsReady": true,
-  "domain": "kreatives-umgestalten.de",
-  "hostname": "https://www.kreatives-umgestalten.de/",
-  "email": "kreatives-umgestalten.de@surrealnetworks.io",
-  "organization": "kreatives-umgestalten.de",
-  "logoText": "Kreatives-umgestalten.de",
-  "title": "Kreatives Gestalten",
-  "subline": "Der Online Shop für alle Kreativen!",
-  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-  "imageFolder": "/assets/images/images/",
-  "productUrl": "/produkt/",
-  "kategorieUrl": "/kategorie/",
-  "numberOfProductsOnStartpage": 18,
-  "numberMaximumProductsPerCategory": 100,
-  "numberOfRelevantProduct": 12,
-  "popularProducts": [
-    "7038714",
-    "2787877",
-    "7038912",
-    "8572794",
-    "2822500",
-    "1066943"
-  ],
-  "winnerProducts": [
-    "7038813",
-    "6733026",
-    "2739233"
-  ],
-  "featuredCategories": [
-    "Kleben & Schneiden",
-    "Malzubehör",
-    "Kreative Bücher",
-    "Staffeleien",
-    "Stifte",
-    "Blöcke"
-  ],
-  "socialMediaAccounts": [],
-  "imageQuality": 90,
-  "checklist": [
-    "Material",
-    "Komfort",
-    "Funktion",
-    "Haltbarkeit"
-  ],
-  "seo": {
-    "htmlLang": "de",
-    "mainKeyword": "Kreatives Gestalten",
-    "featureText": "Schön, dass du unseren Online Shop gefunden hast! Egal welches kreative Projekt du gerade planst und umsetzen möchtest: bei uns wirst du die passenden Produkte finden! Schau einfach vorbei und überzeuge dich selbst von unserem riesigen Sortiment: Bastelfarben, Stifte, Malblöcke, Staffeleien, Fimo Modelliermasse, Mosaik und noch vieles mehr. Wir wünschen Dir viel Spaß beim Entdecken und Erschaffen!",
-    "index": {
-      "title": "Kreatives Gestalten - Einzigartige Werke erschaffen!",
-      "metaDescription": "Kreatives-umgestalten ist ein Shop, der alles bietet, was Du für Dein kreatives Projekt benötigst. Warte nicht länger und entdecke unsere tollen Produkte!",
-      "robots": "index, follow",
-      "seotext": {
-        "published": true,
-        "content": [
-          {
-            "title": "Willkommen bei Kreatives Umgestalten!",
-            "text": "Herzlich willkommen bei Kreatives Umgestalten, Ihrem Online-Shop für alles, was Sie für kreatives Gestalten benötigen. Wir bieten Ihnen eine breite Auswahl an Produkten für die unterschiedlichsten Bastel- und Künstlerprojekte. Von Bastelfarben und Stiften über Keilrahmen und Mosaik bis hin zu Schmuckbasteln und Modellieren - bei uns finden Sie alles, was Sie für Ihre kreativen Ideen benötigen. Stöbern Sie durch unsere Kategorien und entdecken Sie die Vielfalt an künstlerischem Zubehör. Wir freuen uns, Sie auf Ihrem Weg zu kreativen Projekten begleiten zu dürfen."
-          },
-          {
-            "title": "Künstlerzubehör",
-            "text": "Entdecke das breite Sortiment an <a href=\"/kategorie/kuenstlerzubehoer/\" title=\"Künstlerzubehör\">Künstlerzubehör</a> bei Kreatives Umgestalten. Von Pinseln über Farben bis hin zu Leinwänden findest du hier alles, was du für deine kreativen Projekte benötigst. Verleihe deiner Kunst den letzten Schliff mit hochwertigem Künstlerzubehör, das in puncto Qualität und Funktionalität keine Wünsche offen lässt. Stöbere jetzt durch unser Sortiment und lass dich inspirieren!"
-          },
-          {
-            "title": "Blöcke",
-            "text": "Erlebe das kreative Potenzial von <a href=\"/kategorie/bloecke/\" title=\"Blöcke\">Blöcke</a>n bei Kreatives Umgestalten. Ob du Zeichnungen, Skizzen oder Aquarelle anfertigen möchtest - mit unseren Blöcken hast du die ideale Grundlage dafür. Wir bieten dir eine große Auswahl an unterschiedlichen Blöcken in verschiedenen Größen und Materialien, damit du ganz nach deinen Vorlieben und Bedürfnissen wählen kannst. Entdecke jetzt die vielfältigen Möglichkeiten mit Blöcken von Kreatives Umgestalten!"
-          },
-          {
-            "title": "Bastelfarben",
-            "text": "Lass dich von der Vielfalt an <a href=\"/kategorie/bastelfarben/\" title=\"Bastelfarben\">Bastelfarben</a> bei Kreatives Umgestalten inspirieren. Ob Acrylfarben, Ölfarben oder Aquarellfarben - wir bieten dir eine große Auswahl an Farben für deine kreativen Projekte. Entdecke die unterschiedlichen Farbtöne und experimentiere mit neuen Farbkombinationen. Mit hochwertigen Bastelfarben von Kreatives Umgestalten kannst du deiner Kreativität freien Lauf lassen und deine Kunstwerke in neuem Licht erstrahlen lassen!"
-          },
-          {
-            "title": "Schmuckbasteln",
-            "text": "Entdecke die Welt des <a href=\"/kategorie/schmuckbasteln/\" title=\"Schmuckbasteln\">Schmuckbasteln</a>s bei kreatives-umgestalten.de. Wir bieten eine breite Auswahl an hochwertigen Materialien, die du für deine kreativen Projekte benötigst. Von Perlen und Drähten bis hin zu Schmuckzangen und Schmuckkomponenten findest du bei uns alles, was du brauchst, um deiner Kreativität freien Lauf zu lassen. Beginne noch heute mit dem Basteln deiner eigenen, einzigartigen Schmuckstücke und lass deiner Fantasie freien Raum."
-          },
-          {
-            "title": "Schul- & Kinderbasteln",
-            "text": "Basteln ist eine großartige Möglichkeit, Kinder zu fördern und ihre Kreativität zu entfalten. Bei kreatives-umgestalten.de findest du eine breite Auswahl an Bastelmaterialien, die perfekt für Schul- und Kinderbastelprojekte geeignet sind. Von Bastelpapieren und Schere bis hin zu Stempeln und Malstiften bieten wir alles, was du für kreative Bastelstunden benötigst. Entdecke jetzt unser Sortiment und lass dich inspirieren."
-          },
-          {
-            "title": "Stifte",
-            "text": "Entdecke die Vielfalt der <a href=\"/kategorie/stifte/\" title=\"Stifte\">Stifte</a> bei kreatives-umgestalten.de. Wir bieten eine breite Auswahl an hochwertigen Stiften für alle Bedürfnisse und Anforderungen. Von Buntstiften und Fineliner über Marker und Brush Pens bis hin zu Bleistiften und Kugelschreibern findest du bei uns alles, was du brauchst, um deiner Kreativität freien Raum zu geben. Entdecke jetzt unser Sortiment und lass dich inspirieren."
-          },
-          {
-            "title": "Modellieren - Kreatives Gestalten mit Modelliermaterialien",
-            "text": "Modellieren ist eine kreative Form des Gestaltens, die viel Freude und Entfaltungsmöglichkeiten bietet. Ob Ton, Gips oder Wachs - mit den richtigen Materialien und Werkzeugen kann jeder seiner Kreativität freien Lauf lassen. Unsere Kategorie Modellieren bietet Ihnen eine große Auswahl an hochwertigen Modelliermaterialien, damit Sie Ihre Ideen perfekt umsetzen können. Entdecken Sie jetzt unser Angebot und lassen Sie Ihrer Kreativität freien Lauf."
-          },
-          {
-            "title": "Kleben & Schneiden - Kreatives Gestalten mit Klebstoffen und Werkzeugen",
-            "text": "Kleben & Schneiden ist ein wichtiger Bestandteil des kreativen Gestaltens. Ob Bastelarbeiten, Reparaturen oder künstlerische Projekte - die richtigen Klebstoffe und Werkzeuge sind unerlässlich. In unserer Kategorie Kleben & Schneiden finden Sie eine große Auswahl an hochwertigen Klebstoffen und Werkzeugen, damit Sie Ihre Projekte mit Präzision und Leichtigkeit umsetzen können. Entdecken Sie jetzt unser Angebot und lassen Sie Ihrer Kreativität freien Lauf."
-          },
-          {
-            "title": "Keilrahmen - Kreatives Gestalten mit Keilrahmen",
-            "text": "Ein Keilrahmen bietet eine hervorragende Grundlage für das kreative Gestalten mit Farben und Materialien. Ob Öl, Acryl oder Aquarell - mit einem Keilrahmen können Sie Ihre künstlerischen Visionen perfekt umsetzen. Unsere Kategorie Keilrahmen bietet Ihnen eine große Auswahl an hochwertigen Keilrahmen in verschiedenen Größen und Materialien, damit Sie Ihre Ideen perfekt umsetzen können. Entdecken Sie jetzt unser Angebot und lassen Sie Ihrer Kreativität freien Lauf."
-          },
-          {
-            "title": "Kategorie: Mosaik",
-            "text": "Entdecke die vielfältigen Möglichkeiten des Mosaiks bei Kreatives Umgestalten. Wir bieten eine breite Auswahl an Mosaiksteinchen in verschiedenen Farben und Formen, um deiner Kreativität freien Lauf zu lassen. Ob du ein erfahrener Künstler oder ein Anfänger bist, unser Sortiment bietet dir alles, was du brauchst, um deine eigenen Mosaik-Kunstwerke zu erschaffen. Stöbere jetzt durch unsere Auswahl an Mosaikprodukten und finde alles, was du für dein nächstes Projekt brauchst."
-          },
-          {
-            "title": "Kategorie: Kreative Bücher",
-            "text": "Erweitere dein kreatives Wissen mit unserer Auswahl an Büchern zum Thema Kreatives Gestalten. Ob du Anregungen für neue Projekte suchst oder Tipps und Tricks zu einer bestimmten Technik brauchst, wir haben das passende Buch für dich. Stöbere jetzt durch unsere Auswahl an Büchern und finde Inspiration für deine nächsten kreativen Vorhaben."
-          },
-          {
-            "title": "Kategorie: Fimo",
-            "text": "Entdecke die Welt der Polymer-Clay-Modellierung mit Fimo bei Kreatives Umgestalten. Wir bieten eine breite Auswahl an Fimo-Modelliermassen in verschiedenen Farben und Formen, um deiner Kreativität freien Lauf zu lassen. Ob du Schmuck, Figuren oder andere kleine Kunstwerke erschaffen willst, Fimo bietet dir alle Möglichkeiten. Stöbere jetzt durch unsere Auswahl an Fimo-Produkten und finde alles, was du für dein nächstes Projekt brauchst."
-          },
-          {
-            "title": "Staffeleien",
-            "text": "Entdecke bei Kreatives Umgestalten eine große Auswahl an <a href=\"/kategorie/staffeleien/\" title=\"Staffeleien\">Staffeleien</a> für deine kreativen Projekte. Unsere Staffeleien bieten dir Stabilität und Flexibilität beim Malen und Zeichnen. Wir haben sowohl einfache Tischstaffeleien als auch robuste Freistehleien im Angebot. Egal, ob du ein Anfänger oder ein Profi bist, bei uns wirst du fündig werden."
-          },
-          {
-            "title": "Malzubehör",
-            "text": "Für deine kreativen Projekte brauchst du das richtige Zubehör. Bei Kreatives Umgestalten findest du eine große Auswahl an <a href=\"/kategorie/malzubehoer/\" title=\"Malzubehör\">Malzubehör</a> wie Pinsel, Farben, Leinwände und vieles mehr. Unsere hochwertigen Produkte ermöglichen es dir, deiner Kreativität freien Lauf zu lassen. Entdecke jetzt unser Angebot an Malzubehör und starte dein nächstes Projekt."
-          }
-        ]
-      }
+    "configIsReady": true,
+    "domain": "kreatives-umgestalten.de",
+    "hostname": "https://www.kreatives-umgestalten.de/",
+    "email": "kreatives-umgestalten.de@surrealnetworks.io",
+    "organization": "kreatives-umgestalten.de",
+    "logoText": "Kreatives-umgestalten.de",
+    "title": "Kreatives Gestalten",
+    "subline": "Der Online Shop für alle Kreativen!",
+    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        "7038714",
+        "2787877",
+        "7038912",
+        "8572794",
+        "2822500",
+        "1066943"
+    ],
+    "winnerProducts": [
+        "7038813",
+        "6733026",
+        "2739233"
+    ],
+    "featuredCategories": [
+        "Kleben & Schneiden",
+        "Malzubehör",
+        "Kreative Bücher",
+        "Staffeleien",
+        "Stifte",
+        "Blöcke"
+    ],
+    "socialMediaAccounts": [],
+    "imageQuality": 90,
+    "checklist": [
+        "Material",
+        "Komfort",
+        "Funktion",
+        "Haltbarkeit"
+    ],
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Kreatives Gestalten",
+        "featureText": "Schön, dass du unseren Online Shop gefunden hast! Egal welches kreative Projekt du gerade planst und umsetzen möchtest: bei uns wirst du die passenden Produkte finden! Schau einfach vorbei und überzeuge dich selbst von unserem riesigen Sortiment: Bastelfarben, Stifte, Malblöcke, Staffeleien, Fimo Modelliermasse, Mosaik und noch vieles mehr. Wir wünschen Dir viel Spaß beim Entdecken und Erschaffen!",
+        "index": {
+            "title": "Kreatives Gestalten - Einzigartige Werke erschaffen!",
+            "metaDescription": "Kreatives-umgestalten ist ein Shop, der alles bietet, was Du für Dein kreatives Projekt benötigst. Warte nicht länger und entdecke unsere tollen Produkte!",
+            "robots": "index, follow",
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Kreatives Umgestalten!",
+                        "text": "Herzlich willkommen bei Kreatives Umgestalten, Ihrem Online-Shop für alles, was Sie für kreatives Gestalten benötigen. Wir bieten Ihnen eine breite Auswahl an Produkten für die unterschiedlichsten Bastel- und Künstlerprojekte. Von Bastelfarben und Stiften über Keilrahmen und Mosaik bis hin zu Schmuckbasteln und Modellieren - bei uns finden Sie alles, was Sie für Ihre kreativen Ideen benötigen. Stöbern Sie durch unsere Kategorien und entdecken Sie die Vielfalt an künstlerischem Zubehör. Wir freuen uns, Sie auf Ihrem Weg zu kreativen Projekten begleiten zu dürfen."
+                    },
+                    {
+                        "title": "Künstlerzubehör",
+                        "text": "Entdecke das breite Sortiment an <a href=\"/kategorie/kuenstlerzubehoer/\" title=\"Künstlerzubehör\">Künstlerzubehör</a> bei Kreatives Umgestalten. Von Pinseln über Farben bis hin zu Leinwänden findest du hier alles, was du für deine kreativen Projekte benötigst. Verleihe deiner Kunst den letzten Schliff mit hochwertigem Künstlerzubehör, das in puncto Qualität und Funktionalität keine Wünsche offen lässt. Stöbere jetzt durch unser Sortiment und lass dich inspirieren!"
+                    },
+                    {
+                        "title": "Blöcke",
+                        "text": "Erlebe das kreative Potenzial von <a href=\"/kategorie/bloecke/\" title=\"Blöcke\">Blöcke</a>n bei Kreatives Umgestalten. Ob du Zeichnungen, Skizzen oder Aquarelle anfertigen möchtest - mit unseren Blöcken hast du die ideale Grundlage dafür. Wir bieten dir eine große Auswahl an unterschiedlichen Blöcken in verschiedenen Größen und Materialien, damit du ganz nach deinen Vorlieben und Bedürfnissen wählen kannst. Entdecke jetzt die vielfältigen Möglichkeiten mit Blöcken von Kreatives Umgestalten!"
+                    },
+                    {
+                        "title": "Bastelfarben",
+                        "text": "Lass dich von der Vielfalt an <a href=\"/kategorie/bastelfarben/\" title=\"Bastelfarben\">Bastelfarben</a> bei Kreatives Umgestalten inspirieren. Ob Acrylfarben, Ölfarben oder Aquarellfarben - wir bieten dir eine große Auswahl an Farben für deine kreativen Projekte. Entdecke die unterschiedlichen Farbtöne und experimentiere mit neuen Farbkombinationen. Mit hochwertigen Bastelfarben von Kreatives Umgestalten kannst du deiner Kreativität freien Lauf lassen und deine Kunstwerke in neuem Licht erstrahlen lassen!"
+                    },
+                    {
+                        "title": "Schmuckbasteln",
+                        "text": "Entdecke die Welt des <a href=\"/kategorie/schmuckbasteln/\" title=\"Schmuckbasteln\">Schmuckbasteln</a>s bei kreatives-umgestalten.de. Wir bieten eine breite Auswahl an hochwertigen Materialien, die du für deine kreativen Projekte benötigst. Von Perlen und Drähten bis hin zu Schmuckzangen und Schmuckkomponenten findest du bei uns alles, was du brauchst, um deiner Kreativität freien Lauf zu lassen. Beginne noch heute mit dem Basteln deiner eigenen, einzigartigen Schmuckstücke und lass deiner Fantasie freien Raum."
+                    },
+                    {
+                        "title": "Schul- & Kinderbasteln",
+                        "text": "Basteln ist eine großartige Möglichkeit, Kinder zu fördern und ihre Kreativität zu entfalten. Bei kreatives-umgestalten.de findest du eine breite Auswahl an Bastelmaterialien, die perfekt für Schul- und Kinderbastelprojekte geeignet sind. Von Bastelpapieren und Schere bis hin zu Stempeln und Malstiften bieten wir alles, was du für kreative Bastelstunden benötigst. Entdecke jetzt unser Sortiment und lass dich inspirieren."
+                    },
+                    {
+                        "title": "Stifte",
+                        "text": "Entdecke die Vielfalt der <a href=\"/kategorie/stifte/\" title=\"Stifte\">Stifte</a> bei kreatives-umgestalten.de. Wir bieten eine breite Auswahl an hochwertigen Stiften für alle Bedürfnisse und Anforderungen. Von Buntstiften und Fineliner über Marker und Brush Pens bis hin zu Bleistiften und Kugelschreibern findest du bei uns alles, was du brauchst, um deiner Kreativität freien Raum zu geben. Entdecke jetzt unser Sortiment und lass dich inspirieren."
+                    },
+                    {
+                        "title": "Modellieren - Kreatives Gestalten mit Modelliermaterialien",
+                        "text": "Modellieren ist eine kreative Form des Gestaltens, die viel Freude und Entfaltungsmöglichkeiten bietet. Ob Ton, Gips oder Wachs - mit den richtigen Materialien und Werkzeugen kann jeder seiner Kreativität freien Lauf lassen. Unsere Kategorie Modellieren bietet Ihnen eine große Auswahl an hochwertigen Modelliermaterialien, damit Sie Ihre Ideen perfekt umsetzen können. Entdecken Sie jetzt unser Angebot und lassen Sie Ihrer Kreativität freien Lauf."
+                    },
+                    {
+                        "title": "Kleben & Schneiden - Kreatives Gestalten mit Klebstoffen und Werkzeugen",
+                        "text": "Kleben & Schneiden ist ein wichtiger Bestandteil des kreativen Gestaltens. Ob Bastelarbeiten, Reparaturen oder künstlerische Projekte - die richtigen Klebstoffe und Werkzeuge sind unerlässlich. In unserer Kategorie Kleben & Schneiden finden Sie eine große Auswahl an hochwertigen Klebstoffen und Werkzeugen, damit Sie Ihre Projekte mit Präzision und Leichtigkeit umsetzen können. Entdecken Sie jetzt unser Angebot und lassen Sie Ihrer Kreativität freien Lauf."
+                    },
+                    {
+                        "title": "Keilrahmen - Kreatives Gestalten mit Keilrahmen",
+                        "text": "Ein Keilrahmen bietet eine hervorragende Grundlage für das kreative Gestalten mit Farben und Materialien. Ob Öl, Acryl oder Aquarell - mit einem Keilrahmen können Sie Ihre künstlerischen Visionen perfekt umsetzen. Unsere Kategorie Keilrahmen bietet Ihnen eine große Auswahl an hochwertigen Keilrahmen in verschiedenen Größen und Materialien, damit Sie Ihre Ideen perfekt umsetzen können. Entdecken Sie jetzt unser Angebot und lassen Sie Ihrer Kreativität freien Lauf."
+                    },
+                    {
+                        "title": "Kategorie: Mosaik",
+                        "text": "Entdecke die vielfältigen Möglichkeiten des Mosaiks bei Kreatives Umgestalten. Wir bieten eine breite Auswahl an Mosaiksteinchen in verschiedenen Farben und Formen, um deiner Kreativität freien Lauf zu lassen. Ob du ein erfahrener Künstler oder ein Anfänger bist, unser Sortiment bietet dir alles, was du brauchst, um deine eigenen Mosaik-Kunstwerke zu erschaffen. Stöbere jetzt durch unsere Auswahl an Mosaikprodukten und finde alles, was du für dein nächstes Projekt brauchst."
+                    },
+                    {
+                        "title": "Kategorie: Kreative Bücher",
+                        "text": "Erweitere dein kreatives Wissen mit unserer Auswahl an Büchern zum Thema Kreatives Gestalten. Ob du Anregungen für neue Projekte suchst oder Tipps und Tricks zu einer bestimmten Technik brauchst, wir haben das passende Buch für dich. Stöbere jetzt durch unsere Auswahl an Büchern und finde Inspiration für deine nächsten kreativen Vorhaben."
+                    },
+                    {
+                        "title": "Kategorie: Fimo",
+                        "text": "Entdecke die Welt der Polymer-Clay-Modellierung mit Fimo bei Kreatives Umgestalten. Wir bieten eine breite Auswahl an Fimo-Modelliermassen in verschiedenen Farben und Formen, um deiner Kreativität freien Lauf zu lassen. Ob du Schmuck, Figuren oder andere kleine Kunstwerke erschaffen willst, Fimo bietet dir alle Möglichkeiten. Stöbere jetzt durch unsere Auswahl an Fimo-Produkten und finde alles, was du für dein nächstes Projekt brauchst."
+                    },
+                    {
+                        "title": "Staffeleien",
+                        "text": "Entdecke bei Kreatives Umgestalten eine große Auswahl an <a href=\"/kategorie/staffeleien/\" title=\"Staffeleien\">Staffeleien</a> für deine kreativen Projekte. Unsere Staffeleien bieten dir Stabilität und Flexibilität beim Malen und Zeichnen. Wir haben sowohl einfache Tischstaffeleien als auch robuste Freistehleien im Angebot. Egal, ob du ein Anfänger oder ein Profi bist, bei uns wirst du fündig werden."
+                    },
+                    {
+                        "title": "Malzubehör",
+                        "text": "Für deine kreativen Projekte brauchst du das richtige Zubehör. Bei Kreatives Umgestalten findest du eine große Auswahl an <a href=\"/kategorie/malzubehoer/\" title=\"Malzubehör\">Malzubehör</a> wie Pinsel, Farben, Leinwände und vieles mehr. Unsere hochwertigen Produkte ermöglichen es dir, deiner Kreativität freien Lauf zu lassen. Entdecke jetzt unser Angebot an Malzubehör und starte dein nächstes Projekt."
+                    }
+                ]
+            }
+        },
+        "shop": {
+            "title": "Kreatives-umgestalten.de | Der Shop für alle Kreativen",
+            "metaDescription": "Entdecke eine Vielzahl toller Produkte für dein nächstes Projekt: Farben, Modelliermasse, Stifte, Blöcke, Mosaik und mehr! Günstig | Hochwertig | Vielfältig",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Kreatives Gestalten | tolle Marken entdecken und bestellen ",
+            "metaDescription": "Willkommen in unserem Online Shop! Bei uns findest du eine große Auswahl an tollen Marken: EDDING • KREUL • Simply • CREATE! By OBI • Glorex uvm.",
+            "robots": "index, follow"
+        }
     },
-    "shop": {
-      "title": "Kreatives-umgestalten.de | Der Shop für alle Kreativen",
-      "metaDescription": "Entdecke eine Vielzahl toller Produkte für dein nächstes Projekt: Farben, Modelliermasse, Stifte, Blöcke, Mosaik und mehr! Günstig | Hochwertig | Vielfältig",
-      "robots": "index, follow"
-    },
-    "hersteller": {
-      "title": "Kreatives Gestalten | tolle Marken entdecken und bestellen ",
-      "metaDescription": "Willkommen in unserem Online Shop! Bei uns findest du eine große Auswahl an tollen Marken: EDDING • KREUL • Simply • CREATE! By OBI • Glorex uvm.",
-      "robots": "index, follow"
-    }
-  },
-  "productSeo": {
-    "defaultTitle": "$PRODUKT | Günstig online bestellen",
-    "defaultMetaDescription": "$PRODUKT von $HERSTELLER  bei uns kaufen und kreativ werden! Produkte der Kategorie $KATEGORIE bieten alles, was Du für dein Projekt brauchst.",
-    "defaultRobots": "index, follow",
-    "products": [
-      {
-        "sku": "5637909794",
-        "name": "Ortovox PALA PANTS Kletterhose",
-        "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "sku": "2739233",
-        "seo": {
-          "texts": [
+    "productSeo": {
+        "defaultTitle": "$PRODUKT | Günstig online bestellen",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER  bei uns kaufen und kreativ werden! Produkte der Kategorie $KATEGORIE bieten alles, was Du für dein Projekt brauchst.",
+        "defaultRobots": "index, follow",
+        "products": [
             {
-              "title": "KREUL Acryl Farbe Matt Grün 50 ml - Hochwertige Bastelfarben für kreatives Gestalten",
-              "text": "<p class=\"justify\">Die KREUL Acryl Farbe Matt Grün 50 ml (SKU: 2739233, GTIN13: 4000798755225) ist eine hochwertige Bastelfarbe aus dem Hause KREUL, die sich ideal für kreatives Gestalten in den Bereichen Wohnen und Dekoration eignet. Diese Farbe verleiht jedem Projekt eine schlichte Eleganz und überzeugt durch eine perfekt passende Farbnuance. Das satte, matte Grün fügt sich harmonisch in jedes Ambiente ein und macht jedes DIY-Projekt zu etwas ganz Besonderem.</p><p class=\"justify\">Die Acrylfarbe zeichnet sich durch ihre cremige Konsistenz und ihren angenehmen Geruch aus. Sie ist einfach in der Anwendung und trocknet schnell, sodass keine langen Wartezeiten entstehen und mehrere Schichten problemlos aufgetragen werden können. Sie deckt ebenmäßig und überzeugt durch ihre Robustheit und Langlebigkeit. Die KREUL Acryl Farbe Matt Grün eignet sich hervorragend für Grundierungen, Anmalen oder als Basis für Serviettentechnik und Foto Transfer.</p><p class=\"justify\">Mit einer Füllmenge von 50 ml bietet diese Farbe ausreichend Menge für mehrere Projekte und Anwendungen. Die KREUL Acrylfarben sind in einer Vielzahl weiterer ausdrucksstarker Farben erhältlich, wie zum Beispiel warmes Graphitgrau oder freundliches Zitronengelb, sodass für jedes Projekt die passende Farbnuance gefunden werden kann. Die hohe Qualität der Farben und die große Auswahl an unterschiedlichen Tönen sorgt für ein immer wieder beeindruckendes Ergebnis beim kreativen Gestalten. Dabei überzeugt das Produkt nicht nur durch seinen 5-Sterne-Bewertungen, sondern auch durch seine zahlreichen positiven Kundenrezensionen.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "7038813",
-        "seo": {
-          "texts": [
-            {
-              "title": "KREUL Porcelain Pen easy Schwarz - Die perfekte Wahl für kreative Projekte",
-              "text": "<p class=\"justify\">Der KREUL Porcelain Pen easy Schwarz ist ein hochwertiger Stift, der speziell für das Bemalen von Porzellan, Glas und Keramik entwickelt wurde. Mit der EAN 4000798163341 und der SKU 7038813 ist dieser Stift aus dem Hause KREUL ein Must-Have für alle, die ihre Kreativität auf Porzellan, Glas und Keramik zum Ausdruck bringen möchten. Er gehört zur Kategorie der Stifte und findet Anwendung in den Bereichen Wohnen, Kreatives Gestalten sowie Schul- & Kinderbasteln.</p><p class=\"justify\">Der KREUL Porcelain Pen easy Schwarz überzeugt durch seine einfache Handhabung und seine langlebige Qualität. Die feine Spitze ermöglicht präzises Arbeiten und sorgt für ausdrucksstarke Designs auf Porzellan, Glas und Keramik. Egal ob hübsche Muster, persönliche Schriftzüge oder individuelle Motive - dieses Produkt bietet unzählige Möglichkeiten in der kreativen Gestaltung. Mit der starken Deckkraft der Farbe bleiben die Kunstwerke lange erhalten und überzeugen durch intensive Farbbrillanz.</p><p class=\"justify\">Die getrocknete Farbe des KREUL Porcelain Pen easy Schwarz ist spülmaschinenfest und hitzebeständig, sodass die selbst gestalteten Kunstwerke problemlos im Alltag genutzt werden können. Die Tasse, die im Produktbild gezeigt wird, dient als ideale Basis für die Gestaltung mit diesem Porzellanstift und zeigt die vielfältige Anwendung dieses hochwertigen Produkts.</p><p class=\"justify\">Mit einer Bewertung von 5 Sternen und insgesamt 496 Rezensionen ist der KREUL Porcelain Pen easy Schwarz ein äußerst beliebtes Produkt, das sowohl bei Anfängern als auch bei erfahrenen Künstlern für Freude und kreative Ergebnisse sorgt. Entdecken Sie die Möglichkeiten, die Ihnen dieser Stift bietet, und lassen Sie Ihrer Kreativität freien Lauf!</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "6733026",
-        "seo": {
-          "texts": [
-            {
-              "title": "Daler-Rowney Simply Bespannter Keilrahmen 60 x 60 cm",
-              "text": "<p class=\"justify\">Der Daler-Rowney Simply Bespannte Keilrahmen 60 x 60 cm ist das ideale Produkt für Künstler und Hobbyisten, die eine hochwertige Leinwand für ihre Öl- oder Acrylmalerei suchen. Die Marke Daler Rowney ist bekannt für ihre ausgesprchen gute Qualität und lange Erfahrung im Bereich Künstlerbedarf. Der Keilrahmen ist im Bereich Wohnen und Kreatives Gestalten unter der Kategorie Künstlerzubehör zu finden.</p><p class=\"justify\">Die Leinwand des Daler-Rowney Simply Bespannten Keilrahmens besteht aus 100% Baumwolle und ist dreifach grundiert. Das Leinwandgewebe ist auf einem stabilen Holzrahmen gespannt, der eine hervorragende Malfläche bietet. Durch die dreifache Grundierung wird eine perfekte, gebrauchsfertige Malfläche für Öl- und Acrylfarben erzeugt, die die Farbe auf der Oberfläche hält und ein Durchsickern von Öl auf die Rückseite verhindert.</p><p class=\"justify\">Bei diesem Produkt ist besondere Sorgfalt auf die Verarbeitung gelegt worden: Die Leinwand ist auf der Rückseite mit sauberen Kanten geheftet, wodurch sie ohne zusätzliche Rahmung direkt aufgehängt werden kann. Der Daler-Rowney Simply Bespannte Keilrahmen 60 x 60 cm eignet sich hervorragend für verschiedene Maltechniken, Collagen, Impasto und schwere Texturen.</p><p class=\"justify\">Mit über 200 positiven Bewertungen und 5 Sternen haben zufriedene Kunden dieses Produkt bereits in hohem Maße gelobt. Sie können also sicher sein, dass dieser Keilrahmen den hohen Anforderungen von erfahrenen Künstlern und ambitionierten Hobbyisten entspricht. Wenn Sie auf der Suche nach einer hochwertigen Leinwand sind, ist der Daler-Rowney Simply Bespannte Keilrahmen 60 x 60 cm die perfekte Wahl für Ihr nächstes künstlerisches Projekt.</p>"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "categorySeo": {
-    "defaultTitle": "Kreatives Gestalten: $KATEGORIE",
-    "defaultMetaDescription": "$KATEGORIE | Du hast die Ideen - wir die passenden Produkte! Einfach unseren Shop besuchen und in der Kategorie $KATEGORIE stöbern und inspirieren lassen.",
-    "defaultRobots": "index, follow",
-    "categories": [
-      {
-        "key": "sporthosen",
-        "slug": "sporthosen",
-        "name": "Sporthosen",
-        "seo": {
-          "title": "Sporthosen günstig kaufen",
-          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-          "robots": "index, follow",
-          "texts": [
-            {
-              "title": "Title of a SEO Text for sporthosen",
-              "text": "Text of a SEO Text for sporthosen"
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             },
             {
-              "title": "New title for sporthosen",
-              "text": "new text for sporthosen"
+                "sku": "2739233",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "KREUL Acryl Farbe Matt Grün 50 ml - Hochwertige Bastelfarben für kreatives Gestalten",
+                            "text": "<p class=\"justify\">Die KREUL Acryl Farbe Matt Grün 50 ml (SKU: 2739233, GTIN13: 4000798755225) ist eine hochwertige Bastelfarbe aus dem Hause KREUL, die sich ideal für kreatives Gestalten in den Bereichen Wohnen und Dekoration eignet. Diese Farbe verleiht jedem Projekt eine schlichte Eleganz und überzeugt durch eine perfekt passende Farbnuance. Das satte, matte Grün fügt sich harmonisch in jedes Ambiente ein und macht jedes DIY-Projekt zu etwas ganz Besonderem.</p><p class=\"justify\">Die Acrylfarbe zeichnet sich durch ihre cremige Konsistenz und ihren angenehmen Geruch aus. Sie ist einfach in der Anwendung und trocknet schnell, sodass keine langen Wartezeiten entstehen und mehrere Schichten problemlos aufgetragen werden können. Sie deckt ebenmäßig und überzeugt durch ihre Robustheit und Langlebigkeit. Die KREUL Acryl Farbe Matt Grün eignet sich hervorragend für Grundierungen, Anmalen oder als Basis für Serviettentechnik und Foto Transfer.</p><p class=\"justify\">Mit einer Füllmenge von 50 ml bietet diese Farbe ausreichend Menge für mehrere Projekte und Anwendungen. Die KREUL Acrylfarben sind in einer Vielzahl weiterer ausdrucksstarker Farben erhältlich, wie zum Beispiel warmes Graphitgrau oder freundliches Zitronengelb, sodass für jedes Projekt die passende Farbnuance gefunden werden kann. Die hohe Qualität der Farben und die große Auswahl an unterschiedlichen Tönen sorgt für ein immer wieder beeindruckendes Ergebnis beim kreativen Gestalten. Dabei überzeugt das Produkt nicht nur durch seinen 5-Sterne-Bewertungen, sondern auch durch seine zahlreichen positiven Kundenrezensionen.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "7038813",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "KREUL Porcelain Pen easy Schwarz - Die perfekte Wahl für kreative Projekte",
+                            "text": "<p class=\"justify\">Der KREUL Porcelain Pen easy Schwarz ist ein hochwertiger Stift, der speziell für das Bemalen von Porzellan, Glas und Keramik entwickelt wurde. Mit der EAN 4000798163341 und der SKU 7038813 ist dieser Stift aus dem Hause KREUL ein Must-Have für alle, die ihre Kreativität auf Porzellan, Glas und Keramik zum Ausdruck bringen möchten. Er gehört zur Kategorie der Stifte und findet Anwendung in den Bereichen Wohnen, Kreatives Gestalten sowie Schul- & Kinderbasteln.</p><p class=\"justify\">Der KREUL Porcelain Pen easy Schwarz überzeugt durch seine einfache Handhabung und seine langlebige Qualität. Die feine Spitze ermöglicht präzises Arbeiten und sorgt für ausdrucksstarke Designs auf Porzellan, Glas und Keramik. Egal ob hübsche Muster, persönliche Schriftzüge oder individuelle Motive - dieses Produkt bietet unzählige Möglichkeiten in der kreativen Gestaltung. Mit der starken Deckkraft der Farbe bleiben die Kunstwerke lange erhalten und überzeugen durch intensive Farbbrillanz.</p><p class=\"justify\">Die getrocknete Farbe des KREUL Porcelain Pen easy Schwarz ist spülmaschinenfest und hitzebeständig, sodass die selbst gestalteten Kunstwerke problemlos im Alltag genutzt werden können. Die Tasse, die im Produktbild gezeigt wird, dient als ideale Basis für die Gestaltung mit diesem Porzellanstift und zeigt die vielfältige Anwendung dieses hochwertigen Produkts.</p><p class=\"justify\">Mit einer Bewertung von 5 Sternen und insgesamt 496 Rezensionen ist der KREUL Porcelain Pen easy Schwarz ein äußerst beliebtes Produkt, das sowohl bei Anfängern als auch bei erfahrenen Künstlern für Freude und kreative Ergebnisse sorgt. Entdecken Sie die Möglichkeiten, die Ihnen dieser Stift bietet, und lassen Sie Ihrer Kreativität freien Lauf!</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "6733026",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Daler-Rowney Simply Bespannter Keilrahmen 60 x 60 cm",
+                            "text": "<p class=\"justify\">Der Daler-Rowney Simply Bespannte Keilrahmen 60 x 60 cm ist das ideale Produkt für Künstler und Hobbyisten, die eine hochwertige Leinwand für ihre Öl- oder Acrylmalerei suchen. Die Marke Daler Rowney ist bekannt für ihre ausgesprchen gute Qualität und lange Erfahrung im Bereich Künstlerbedarf. Der Keilrahmen ist im Bereich Wohnen und Kreatives Gestalten unter der Kategorie Künstlerzubehör zu finden.</p><p class=\"justify\">Die Leinwand des Daler-Rowney Simply Bespannten Keilrahmens besteht aus 100% Baumwolle und ist dreifach grundiert. Das Leinwandgewebe ist auf einem stabilen Holzrahmen gespannt, der eine hervorragende Malfläche bietet. Durch die dreifache Grundierung wird eine perfekte, gebrauchsfertige Malfläche für Öl- und Acrylfarben erzeugt, die die Farbe auf der Oberfläche hält und ein Durchsickern von Öl auf die Rückseite verhindert.</p><p class=\"justify\">Bei diesem Produkt ist besondere Sorgfalt auf die Verarbeitung gelegt worden: Die Leinwand ist auf der Rückseite mit sauberen Kanten geheftet, wodurch sie ohne zusätzliche Rahmung direkt aufgehängt werden kann. Der Daler-Rowney Simply Bespannte Keilrahmen 60 x 60 cm eignet sich hervorragend für verschiedene Maltechniken, Collagen, Impasto und schwere Texturen.</p><p class=\"justify\">Mit über 200 positiven Bewertungen und 5 Sternen haben zufriedene Kunden dieses Produkt bereits in hohem Maße gelobt. Sie können also sicher sein, dass dieser Keilrahmen den hohen Anforderungen von erfahrenen Künstlern und ambitionierten Hobbyisten entspricht. Wenn Sie auf der Suche nach einer hochwertigen Leinwand sind, ist der Daler-Rowney Simply Bespannte Keilrahmen 60 x 60 cm die perfekte Wahl für Ihr nächstes künstlerisches Projekt.</p>"
+                        }
+                    ]
+                }
             }
-          ]
+        ]
+    },
+    "categorySeo": {
+        "defaultTitle": "Kreatives Gestalten: $KATEGORIE",
+        "defaultMetaDescription": "$KATEGORIE | Du hast die Ideen - wir die passenden Produkte! Einfach unseren Shop besuchen und in der Kategorie $KATEGORIE stöbern und inspirieren lassen.",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Title of a SEO Text for sporthosen",
+                            "text": "Text of a SEO Text for sporthosen"
+                        },
+                        {
+                            "title": "New title for sporthosen",
+                            "text": "new text for sporthosen"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "brandSeo": {
+        "defaultTitle": "$HERSTELLER: Produkte zum neu gestalten und kreativ werden",
+        "defaultMetaDescription": "$HERSTELLER ist die richtige Marke für dein nächstes Kreativprojekt! Hochwertige Qualität | Top Preis-Leistungsverhältnis | Schnelle Lieferung",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "navigationLinks": [
+        {
+            "title": "Start",
+            "linkTo": "/",
+            "linkTitle": "Kreatives Gestalten",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Kreatives Gestalten Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "linkTo": "/marken/",
+            "linkTitle": "Kreatives Gestalten Marken",
+            "publish": true
+        },
+        {
+            "title": "Kontakt",
+            "linkTo": "/kontakt/",
+            "linkTitle": "Kontakt",
+            "publish": false
         }
-      }
-    ]
-  },
-  "brandSeo": {
-    "defaultTitle": "$HERSTELLER: Produkte zum neu gestalten und kreativ werden",
-    "defaultMetaDescription": "$HERSTELLER ist die richtige Marke für dein nächstes Kreativprojekt! Hochwertige Qualität | Top Preis-Leistungsverhältnis | Schnelle Lieferung",
-    "defaultRobots": "index, follow",
-    "brands": [
-      {
-        "key": "palm",
-        "name": "Palm",
-        "seo": {
-          "title": "Produkte von Palm günstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "navigationLinks": [
-    {
-      "title": "Start",
-      "linkTo": "/",
-      "linkTitle": "Kreatives Gestalten",
-      "publish": true
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
     },
-    {
-      "title": "Shop",
-      "linkTo": "/shop/",
-      "linkTitle": "Kreatives Gestalten Shop",
-      "publish": true
+    "affiliate": {
+        "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
     },
-    {
-      "title": "Marken",
-      "linkTo": "/marken/",
-      "linkTitle": "Kreatives Gestalten Marken",
-      "publish": true
-    },
-    {
-      "title": "Kontakt",
-      "linkTo": "/kontakt/",
-      "linkTitle": "Kontakt",
-      "publish": false
+    "snipcart": {
+        "apiKeys": {
+            "live": "MWFmYmZjYzEtNzZhNi00NzNjLWJhYTQtMTFmYWUzZDIyYTEzNjM4MTk1NzM0NTM3MDM2Nzgy",
+            "test": "OTQzZmQ1NzAtYTNlNy00NjMxLTkxMjUtZGRiZmQwMjljNjY3NjM4MTk1NzM0NTM3MDM2Nzgy"
+        },
+        "factor": 1.1
     }
-  ],
-  "ai": {
-    "enabled": true,
-    "engine": 1
-  },
-  "affiliate": {
-    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
-  }
 }
